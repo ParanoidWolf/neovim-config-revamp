@@ -109,11 +109,6 @@ _G.packer_plugins = {
     path = "/home/void/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/ThePrimeagen/harpoon"
   },
-  ["kiwi.nvim"] = {
-    loaded = true,
-    path = "/home/void/.local/share/nvim/site/pack/packer/start/kiwi.nvim",
-    url = "/home/void/dev/projects/kiwi.nvim"
-  },
   ["lspkind-nvim"] = {
     loaded = true,
     path = "/home/void/.local/share/nvim/site/pack/packer/start/lspkind-nvim",
